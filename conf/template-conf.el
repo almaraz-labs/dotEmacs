@@ -1,4 +1,4 @@
-;;; template-conf.el --- Emacs Package Management Configuration  -*- lexical-binding: t; -*-
+;;; template-conf.el --- Emacs Lisp Configuration Template  -*- lexical-binding: t; -*-
 
 ;; Author: Erik Almaraz <erik@almarazlabs.com>
 ;; Maintainer: Erik Almaraz <erik@almarazlabs.com>
@@ -33,7 +33,7 @@
 
 ;; Notes:
 ;; To add helper functions in Emacs setup
-;; (add-hook 'after-init-hook #'ea/my-function)
+;; (add-hook 'after-init-hook #'ri/my-function)
 
 
 

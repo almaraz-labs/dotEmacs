@@ -1,0 +1,6 @@
+#+TITLE: =~/.emacs.d/init.el
+
+* Introduction
+My personal Emacs Configuration.
+
+I was recently inspired by [[https://github.com/daviwil/emacs-from-scratch][emacs-from-scratch]] to try out a org babel Literal configuration, however, after trying this type of setup for couple of months, I decided to revert back to a pure elisp configuration based on my previous implementation inspired by [[https://sites.google.com/site/steveyegge2/my-dot-emacs-file][steve yegge]], but very much updated and awesome! Overall, I find this setup to be better for my workflow. I am still planning on utilizing the power of Babel and literate programming for other projects of mine...

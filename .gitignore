@@ -1,0 +1,27 @@
+# Compiled
+*.elc
+
+# Packaging
+.cask
+
+# Backup files
+*~
+
+# Undo-tree save-files
+*.~undo-tree
+
+# OS files, Network files, & Misc. Emacs Pkg's files
+.DS_Store
+network-security.data
+.last-package-update-day
+forge-database.sqlite
+
+# Directories
+etc/
+var/
+elpa/
+packages/
+server/
+straight/
+apps/
+OrgFiles/*

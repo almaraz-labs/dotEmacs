@@ -1,4 +1,4 @@
-#+TITLE: =~/.emacs.d/init.el
+#+TITLE: =~/.emacs.d/init.el=
 
 * Introduction
 My personal Emacs Configuration.

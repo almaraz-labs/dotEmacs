@@ -1,6 +1,9 @@
-#+TITLE: =~/.emacs.d/init.el=
+#+TITLE: =(dotEmacs (def))=
 
 * Introduction
+
 My personal Emacs Configuration.
 
-I was recently inspired by [[https://github.com/daviwil/emacs-from-scratch][emacs-from-scratch]] to try out a org babel Literal configuration, which infact I did, however, I didn't want to do away completely with my first emacs configuration inspired by [[https://sites.google.com/site/steveyegge2/my-dot-emacs-file][steve yegge]], so the resulting configuration is a combination of both. Overall, I find this setup to be better for my workflow. I am still planning on utilizing the power of Babel and literate programming for other projects of mine...
+I was recently inspired by [[https://github.com/daviwil/emacs-from-scratch][emacs-from-scratch]] to try out a org babel literal configuration, this is my rendition. I personally like the concept of a modularized configuration code base, both in Org format and it's tangled Emacs Lisp format. I believe that the init.el file should include a minimal set of logic, but rather mainly serves to loaded in needed logic and library packages.
+
+For more information on my configuration see [[https://github.com/skribest/dotEmacs/blob/main/Emacs.org][Emacs.org]].
